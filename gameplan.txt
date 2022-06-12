@@ -1,0 +1,5 @@
+1) Bestäm upplösning
+2) Konvertera bild till grayscale
+3) Kartlägg RGB till ASCII
+4) In i matris
+5) Generera bild
